@@ -1,0 +1,9 @@
+<div class="partner-grid">
+<% var n = 0;
+for(var key in public._data){
+  n++ %>
+  <div class="partner-img">
+    <img src="../images/<%= public._data[key].src %>" alt="<%= public._data[key].name %>">
+  </div>
+  <% } %>
+</div>

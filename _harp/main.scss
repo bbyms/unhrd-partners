@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.partner {
+  &-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+
+    img {
+      height: 70px;
+      object-fit: contain;
+      padding: 0 20px;
+      width: 100%;
+    }
+  }
+
+  &-img {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}

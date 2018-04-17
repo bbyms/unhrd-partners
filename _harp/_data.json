@@ -1,0 +1,342 @@
+{
+  "partner-one" : {
+    "name": "aar",
+    "src": "aar.png"
+  },
+  "partner-two" : {
+    "name": "ACF",
+    "src": "acf.svg"
+  },
+  "partner-three" : {
+    "name": "ACF",
+    "src": "acf_fr.svg"
+  },
+  "partner-four" : {
+    "name": "ADRA",
+    "src": "adra.jpg"
+  },
+  "partner-14" : {
+    "name": "cooperacion",
+    "src": "cooperacion.svg"
+  },
+  "partner-six" : {
+    "name": "agire",
+    "src": "agire.svg"
+  },
+  "partner-seven" : {
+    "name": "asean",
+    "src": "asean.svg"
+  },
+  "partner-eight" : {
+    "name": "australian-aid",
+    "src": "australian-aid.svg"
+  },
+  "partner-bioforce" : {
+    "name": "bioforce",
+    "src": "bioforce.png"
+  },
+  "partner-bmi" : {
+    "name": "bmi",
+    "src": "bmi.jpg"
+  },
+  "partner-eleven" : {
+    "name": "care",
+    "src": "care.svg"
+  },
+  "partner-twelve" : {
+    "name": "cascos blancos",
+    "src": "cascos.svg"
+  },
+  "partner-cesvi" : {
+    "name": "cesvi",
+    "src": "cesvi.svg"
+  },
+  "partner-13" : {
+    "name": "concern",
+    "src": "concern.svg"
+  },
+  "partner-15" : {
+    "name": "cooperazione",
+    "src": "cooperazione.svg"
+  },
+  "partner-17" : {
+    "name": "crs",
+    "src": "crs.svg"
+  },
+  "partner-16" : {
+    "name": "crosserossa",
+    "src": "crosserossa.svg"
+  },
+  "partner-echo" : {
+    "name": "echo",
+    "src": "echo.png"
+  },
+  "partner-ecowas" : {
+    "name": "ecowas",
+    "src": "ecowas.png"
+  },
+  "partner-18" : {
+    "name": "fao",
+    "src": "fao.svg"
+  },
+  "partner-fin" : {
+    "name": "FINN Church Aid",
+    "src": "finn.jpg"
+  },
+  "partner-french" : {
+    "name": "Republique Française",
+    "src": "french.svg"
+  },
+  "partner-19" : {
+    "name": "foreignaffairs",
+    "src": "foreignaffairs.svg"
+  },
+  "partner-20" : {
+    "name": "frflogo",
+    "src": "frflogo.jpg"
+  },
+  "partner-globalsoap" : {
+    "name": "global soap europe",
+    "src": "globalsoap.svg"
+  },
+  "partner-gmpp" : {
+    "name": "gmpp",
+    "src": "gmpp.png"
+  },
+  "partner-global" : {
+    "name": "goal",
+    "src": "goal.svg"
+  },
+  "partner-22" : {
+    "name": "gob",
+    "src": "gob.svg"
+  },
+  "partner-21" : {
+    "name": "gni",
+    "src": "gni.svg"
+  },
+  "partner-23" : {
+    "name": "handicap",
+    "src": "handicap.svg"
+  },
+  "partner-24" : {
+    "name": "humanity first",
+    "src": "humanityfirst.svg"
+  },
+  "partner-redcross" : {
+    "name": "red cross",
+    "src": "redcross.png"
+  },
+  "partner-25" : {
+    "name": "idlo",
+    "src": "idlo.png"
+  },
+  "partner-ihc" : {
+    "name": "IHC",
+    "src": "ihc.jpg"
+  },
+  "partner-26" : {
+    "name": "International Medical Corps",
+    "src": "internationalmedic.jpg"
+  },
+  "partner-27" : {
+    "name": "intersos",
+    "src": "intersos.svg"
+  },
+  "partner-28" : {
+    "name": "iom",
+    "src": "iom.svg"
+  },
+  "partner-29" : {
+    "name": "irc",
+    "src": "irc.svg"
+  },
+  "partner-30" : {
+    "name": "irish",
+    "src": "irish.svg"
+  },
+  "partner-ir" : {
+    "name": "islamic relief",
+    "src": "islamicrelief.svg"
+  },
+  "partner-31" : {
+    "name": "japan",
+    "src": "japan.jpg"
+  },
+  "partner-32" : {
+    "name": "jica",
+    "src": "jica.svg"
+  },
+  "partner-33" : {
+    "name": "koica",
+    "src": "koica.svg"
+  },
+  "partner-34" : {
+    "name": "linking the world",
+    "src": "linking.png"
+  },
+  "partner-35" : {
+    "name": "lions club international",
+    "src": "lions.svg"
+  },
+  "partner-36" : {
+    "name": "lwr",
+    "src": "lwr.svg"
+  },
+  "partner-37" : {
+    "name": "medair",
+    "src": "medair.png"
+  },
+  "partner-38" : {
+    "name": "mercer",
+    "src": "mercer.jpg"
+  },
+  "partner-40" : {
+    "name": "mercycorps",
+    "src": "mercycorps.jpg"
+  },
+  "partner-39" : {
+    "name": "mercy",
+    "src": "mercy.svg"
+  },
+  "partner-mujeres" : {
+    "name": "mujeres por africa",
+    "src": "mujeres.png"
+  },
+  "partner-msb" : {
+    "name": "msb",
+    "src": "msb.png"
+  },
+  "partner-42" : {
+    "name": "nca",
+    "src": "nca.svg"
+  },
+  "partner-nrc" : {
+    "name": "nrc",
+    "src": "nrc.svg"
+  },
+  "partner-43" : {
+    "name": "ocha",
+    "src": "ocha.svg"
+  },
+  "partner-44" : {
+    "name": "ohchr",
+    "src": "ohchr.jpg"
+  },
+  "partner-45" : {
+    "name": "oxfam",
+    "src": "oxfam.svg"
+  },
+  "partner-plan" : {
+    "name": "plan",
+    "src": "plan.svg"
+  },
+  "partner-46" : {
+    "name": "pui",
+    "src": "pui.png"
+  },
+  "partner-protezione" : {
+    "name": "protezione",
+    "src": "protezione.png"
+  },
+  "partner-48" : {
+    "name": "qatar-charity",
+    "src": "qatar-charity.svg"
+  },
+  "partner-47" : {
+    "name": "qatar_red_crescent",
+    "src": "qatar_red_crescent.png"
+  },
+  "partner-49" : {
+    "name": "rit",
+    "src": "rit.png"
+  },
+  "partner-50" : {
+    "name": "save the children",
+    "src": "save.svg"
+  },
+  "partner-51" : {
+    "name": "sdc",
+    "src": "sdc.svg"
+  },
+  "partner-52" : {
+    "name": "shelter",
+    "src": "shelter.svg"
+  },
+  "partner-53" : {
+    "name": "solidarites",
+    "src": "solidarites.svg"
+  },
+  "partner-swiss" : {
+    "name": "swiss",
+    "src": "swiss.svg"
+  },
+  "partner-johaniter" : {
+    "name": "johanniter",
+    "src": "johanniter.png"
+  },
+  "partner-triangle" : {
+    "name": "triangle",
+    "src": "triangle.jpg"
+  },
+  "partner-54" : {
+    "name": "unama",
+    "src": "unama.svg"
+  },
+  "partner-55" : {
+    "name": "undp",
+    "src": "undp.svg"
+  },
+  "partner-56" : {
+    "name": "unfpa",
+    "src": "unfpa.svg"
+  },
+  "partner-57" : {
+    "name": "unhcr",
+    "src": "unhcr.svg"
+  },
+  "partner-58" : {
+    "name": "unicef",
+    "src": "unicef.svg"
+  },
+  "partner-bologna" : {
+    "name": "universita bologna",
+    "src": "universita.png"
+  },
+  "partner-un" : {
+    "name": "university",
+    "src": "university.png"
+  },
+  "partner-59" : {
+    "name": "unrwa",
+    "src": "unrwa.svg"
+  },
+  "partner-60" : {
+    "name": "usaid",
+    "src": "usaid.svg"
+  },
+  "partner-62" : {
+    "name": "wfp",
+    "src": "wfp.svg"
+  },
+  "partner-63" : {
+    "name": "whl",
+    "src": "whl.svg"
+  },
+  "partner-64" : {
+    "name": "who",
+    "src": "who.svg"
+  },
+  "partner-61" : {
+    "name": "wco",
+    "src": "wco.jpg"
+  },
+  "partner-65" : {
+    "name": "world_vision",
+    "src": "world_vision.svg"
+  },
+  "partner-66" : {
+    "name": "wspa",
+    "src": "wspa.svg"
+  }
+}
