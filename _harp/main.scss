@@ -5,18 +5,19 @@
 .partner {
   &-grid {
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-columns: repeat(6, 1fr);
+    grid-column-gap: 50px;
+    grid-template-rows: repeat(14, 100px);
+    grid-row-gap: 70px;
 
     img {
-      height: 70px;
+      height: 100px;
       object-fit: contain;
-      padding: 0 20px;
       width: 100%;
     }
   }
 
   &-img {
-    margin-bottom: 10px;
     width: 100%;
   }
 }

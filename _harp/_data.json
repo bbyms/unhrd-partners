@@ -1,8 +1,4 @@
 {
-  "partner-one" : {
-    "name": "aar",
-    "src": "aar.png"
-  },
   "partner-two" : {
     "name": "ACF",
     "src": "acf.svg"
@@ -15,6 +11,10 @@
     "name": "ADRA",
     "src": "adra.jpg"
   },
+  "partner-aid" : {
+    "name": "Aid For Aids",
+    "src": "aidforaids.jpeg"
+  },
   "partner-14" : {
     "name": "cooperacion",
     "src": "cooperacion.svg"
@@ -26,6 +26,10 @@
   "partner-seven" : {
     "name": "asean",
     "src": "asean.svg"
+  },
+  "partner-one" : {
+    "name": "aar",
+    "src": "aar.png"
   },
   "partner-eight" : {
     "name": "australian-aid",
@@ -87,17 +91,13 @@
     "name": "Republique Française",
     "src": "french.svg"
   },
-  "partner-19" : {
-    "name": "foreignaffairs",
-    "src": "foreignaffairs.svg"
-  },
   "partner-20" : {
     "name": "frflogo",
     "src": "frflogo.jpg"
   },
   "partner-globalsoap" : {
     "name": "global soap europe",
-    "src": "globalsoap.svg"
+    "src": "soap.png"
   },
   "partner-gmpp" : {
     "name": "gmpp",
@@ -117,7 +117,7 @@
   },
   "partner-23" : {
     "name": "handicap",
-    "src": "handicap.svg"
+    "src": "logo_hi_en_horiz_blue_rgb.png"
   },
   "partner-24" : {
     "name": "humanity first",
@@ -211,6 +211,10 @@
     "name": "nca",
     "src": "nca.svg"
   },
+  "partner-nethope" : {
+    "name": "NetHope",
+    "src": "NetHope.jpg"
+  },
   "partner-nrc" : {
     "name": "nrc",
     "src": "nrc.svg"
@@ -246,10 +250,6 @@
   "partner-47" : {
     "name": "qatar_red_crescent",
     "src": "qatar_red_crescent.png"
-  },
-  "partner-49" : {
-    "name": "rit",
-    "src": "rit.png"
   },
   "partner-50" : {
     "name": "save the children",
@@ -299,14 +299,6 @@
     "name": "unicef",
     "src": "unicef.svg"
   },
-  "partner-bologna" : {
-    "name": "universita bologna",
-    "src": "universita.png"
-  },
-  "partner-un" : {
-    "name": "university",
-    "src": "university.png"
-  },
   "partner-59" : {
     "name": "unrwa",
     "src": "unrwa.svg"
@@ -317,7 +309,7 @@
   },
   "partner-62" : {
     "name": "wfp",
-    "src": "wfp.svg"
+    "src": "wfp-it.svg"
   },
   "partner-63" : {
     "name": "whl",
@@ -325,7 +317,7 @@
   },
   "partner-64" : {
     "name": "who",
-    "src": "who.svg"
+    "src": "who.png"
   },
   "partner-61" : {
     "name": "wco",
