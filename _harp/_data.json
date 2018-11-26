@@ -15,6 +15,10 @@
     "name": "Aid For Aids",
     "src": "aidforaids.jpeg"
   },
+  "partner-hope" : {
+    "name": "Bring Hope",
+    "src": "bring_hope.png"
+  },
   "partner-14" : {
     "name": "cooperacion",
     "src": "cooperacion.svg"
@@ -54,6 +58,10 @@
   "partner-cesvi" : {
     "name": "cesvi",
     "src": "cesvi.svg"
+  },
+  "partner-chai" : {
+    "name": "Clinton  Health  Access  Initiative,  Inc.  (CHAI)",
+    "src": "chai.jpg"
   },
   "partner-13" : {
     "name": "concern",
