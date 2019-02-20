@@ -20,8 +20,8 @@
     "src": "bring_hope.png"
   },
   "partner-14" : {
-    "name": "cooperacion",
-    "src": "cooperacion.svg"
+    "name": "aecid",
+    "src": "aecid.svg"
   },
   "partner-six" : {
     "name": "agire",
@@ -38,10 +38,6 @@
   "partner-eight" : {
     "name": "australian-aid",
     "src": "australian-aid.svg"
-  },
-  "partner-bioforce" : {
-    "name": "bioforce",
-    "src": "bioforce.png"
   },
   "partner-bmi" : {
     "name": "bmi",
