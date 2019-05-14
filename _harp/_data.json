@@ -99,10 +99,6 @@
     "name": "frflogo",
     "src": "frflogo.jpg"
   },
-  "partner-globalsoap" : {
-    "name": "global soap europe",
-    "src": "soap.png"
-  },
   "partner-gmpp" : {
     "name": "gmpp",
     "src": "gmpp.png"
@@ -134,6 +130,10 @@
   "partner-25" : {
     "name": "idlo",
     "src": "idlo.png"
+  },
+  "partner-norway" : {
+    "name": "Innovation Norway",
+    "src": "norway.png"
   },
   "partner-ihc" : {
     "name": "IHC",
@@ -295,6 +295,10 @@
     "name": "unhcr",
     "src": "unhcr.svg"
   },
+  "partner-ohchr" : {
+    "name": "ohchr",
+    "src": "ohchr.png"
+  },
   "partner-58" : {
     "name": "unicef",
     "src": "unicef.svg"
@@ -302,6 +306,10 @@
   "partner-59" : {
     "name": "unrwa",
     "src": "unrwa.svg"
+  },
+  "partner-women" : {
+    "name": "UN Women",
+    "src": "un_women.png"
   },
   "partner-60" : {
     "name": "usaid",
